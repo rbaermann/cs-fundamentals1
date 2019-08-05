@@ -1,0 +1,11 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/bin/Debug/netcoreapp2.2/fundamentals1.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/overview/fundamentals1/obj/Debug/netcoreapp2.2/fundamentals1.pdb
